@@ -6,7 +6,7 @@ int main()
 
 	/* Escape Sequences always begin with a backslash..
 	 * ------------------------------------------------
-	 * Escape Sequence			Character
+	 * Escape Sequence		Character
 	 *	a			Bell (speaker beeps)
 	 *	b			Backspace (non-erase)
 	 *	f			Form feed/clear screen

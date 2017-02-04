@@ -2,14 +2,14 @@
 
 int main()
 {
-	int num1, num2, sum;					/* declare multiple variables with same data type in a single declaration */
+	int num1, num2, sum;                  /* declare multiple variables with same data type in a single declaration */
 
 	printf("ADDING TWO NUMBERS\n");
 	printf("==================\n");
 
 	// Get two numbers from user
 	printf("Enter the first number: ");
-	scanf("%d", &num1);					/* get the input (integer in this case) from user */
+	scanf("%d", &num1);                   /* get the input (integer in this case) from user */
 	printf("Enter the second number: ");
 	scanf("%d", &num2);
 
