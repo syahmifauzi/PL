@@ -8,4 +8,4 @@ Learn the basic of C Programming Language
 
 ## TODO!!
 1. Fix 4.system.c
-2. ternary.c
+2. See Todo dir
