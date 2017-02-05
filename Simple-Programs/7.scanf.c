@@ -9,7 +9,7 @@ int main()
 
 	// Get two numbers from user
 	printf("Enter the first number: ");
-	scanf("%d", &num1);                   /* get the input (integer in this case) from user */
+	scanf("%d", &num1);                   /* get the input (integer in this case) from user and store it in num1 */
 	printf("Enter the second number: ");
 	scanf("%d", &num2);
 

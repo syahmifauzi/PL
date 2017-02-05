@@ -4,7 +4,7 @@ int main()
 {
 	printf("Assalamualaikum..\n");
 	sleep(2);                                /* delay the output for 2000 miliseconds */
-	system("title My Awsome Program!");      /* display "My Avesome Program!" at the name of the output window */
+	system("title My Awsome Program!");      /* display "My Awesome Program!" at the name of the output window */
 	printf("I am Syahmi Fauzi\n");
 	sleep(2);
 	system("cls");                           /* clear previous input on the screen */
@@ -16,6 +16,7 @@ int main()
 	return 0;
 }
 /*
+ * you can simply compile using any compiler in windows machine..
  * if you compile this file in a linux/unix machine,
  * it might not works with the system() function..
  * maybe you need some libraries..
