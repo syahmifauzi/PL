@@ -1,4 +1,8 @@
-#include <stdio.h>
+/*
+ * Problem 2 (Pg. 54)
+ * A program that use one scanf to real 2 inputs
+ */
+ #include <stdio.h>
 
 int main()
 {
@@ -8,7 +12,7 @@ int main()
 
 	// get data from user
 	printf("Enter quantity and price: ");
-	scanf("%d%f", &quantity, &price);
+	scanf("%d%f", &quantity, &price);        /* get 2 inputs in one statement */
 
 	// calculate total_price
 	total_price = quantity * price;          /* the result will assigned to total_price */

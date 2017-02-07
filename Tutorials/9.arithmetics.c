@@ -28,5 +28,3 @@ int main() {
 
 	return 0;
 }
-
-/* see problem2-2.c */
