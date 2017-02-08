@@ -51,6 +51,5 @@ int main()
 	else
 		printf("num1 is NOT less than or equal to num2\n");
 
-
 	return 0;
 }
