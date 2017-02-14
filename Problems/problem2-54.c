@@ -1,6 +1,6 @@
 /*
  * Problem 2 (Pg. 54)
- * A program that use one scanf to real 2 inputs
+ * A program that use one scanf to read 2 inputs
  */
  #include <stdio.h>
 
