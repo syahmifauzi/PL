@@ -1,3 +1,7 @@
+/*
+ * A program that will store student's
+ * data in a file called student_record.txt
+ */
 #include <stdio.h>
 
 int main()

@@ -20,5 +20,5 @@ int main()
   else
     printf("You are not enter an alphabet.. hmm..\n");
 
-	return 0;
+  return 0;
 }
