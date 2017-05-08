@@ -35,6 +35,10 @@ int main()
   GetStr(str1, str2);
   printf("strncmp(,,3): %d\n\n", strncmp(str1, str2, 3));
 
+  // /* strncmpi() */
+  // GetStr(str1, str2);
+  // printf("strcmpi(): %d\n\n", strcmpi(str1, str2));
+
   /* strlen() */
   GetStr(str1, str2);
   int len1 = strlen(str1);
@@ -48,7 +52,7 @@ int main()
   // /* strupr() */
   // GetStr(str1, str2);
   // printf("strupr()\nstr1: %s\nstr2: %d\n\n", strupr(str1), strupr(str2));
-
+  //
   // /* strrev() */
   // GetStr(str1, str2);
   // printf("strrev()\nstr1: %s\nstr2: %d\n\n", strrev(str1), strrev(str2));
