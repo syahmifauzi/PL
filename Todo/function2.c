@@ -3,24 +3,32 @@
  */
 #include <stdio.h>
 
-void ProductThreeNo(int, int, int);
+void Get();
+void Display(int numbers[]);
 
 int main()
 {
-  int num1, num2, num3;
-  printf("Enter three integers: ");
-  scanf("%d%d%d", &num1, &num2, &num3);
-
-  ProductThreeNo(num1, num2, num3);
+  Get();
 
   return 0;
 }
 
 
-void ProductThreeNo(int x, int y, int z)
+void Get()
 {
-  int product = x * y * z;
-  printf("Product of %d, %d and %d is %d\n", x, y, z, product);
+  int numbers[5];
+
+  printf("Enter 5 integers: ");
+  for (int i = 0; i < 5; i++)
+    scanf("%d", &numbers[i]);
+
+  Display(numbers);
 
   return;
+}
+
+void Display(int numbers[])
+{
+  for (int i = 0; i < 5; i++)
+    printf("%d ", numbers[i]);
 }
