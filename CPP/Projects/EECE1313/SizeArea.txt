@@ -1,0 +1,10 @@
+Arau            ;20000
+Ipoh            ;500000
+Kuala Lumpur    ;2000000
+Johor Baharu    ;1500000
+Kampar          ;30000
+Kota Bharu      ;150000
+Kampung Pauh    ;4000
+Kuala Krai      ;50000
+Merapoh         ;3000
+Alor Setar      ;200000
